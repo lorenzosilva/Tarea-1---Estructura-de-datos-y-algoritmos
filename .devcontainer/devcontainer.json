@@ -1,0 +1,9 @@
+{
+  // https://github.com/IIC2133-PUC/edd-dev-container
+  "name": "EDD Dev Container",
+  "image": "benjavicente/edd-dev-container",
+  "hostRequirements": {
+    "cpus": 1,
+    "memory": "2gb"
+  }
+}
